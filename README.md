@@ -1,0 +1,2 @@
+# SpinnerScale_Android
+MySpinnerScaleType
